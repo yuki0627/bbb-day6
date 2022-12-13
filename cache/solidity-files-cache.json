@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/yuki/projects/bbb/day6/contracts/work.sol": {
+      "lastModificationDate": 1670892160919,
+      "contentHash": "9bebd41773a316111c1b2c83035ef541",
+      "sourceName": "contracts/work.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "=0.8.17"
+      ],
+      "artifacts": [
+        "BBB",
+        "IERC20"
+      ]
+    }
+  }
+}
