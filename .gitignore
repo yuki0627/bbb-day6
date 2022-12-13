@@ -1,1 +1,6 @@
 .vscode
+.DS_Store
+
+#Hardhat files
+cache
+artifacts
